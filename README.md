@@ -1,0 +1,1 @@
+# PHP-ClassAnimal-InterfaceEdible
